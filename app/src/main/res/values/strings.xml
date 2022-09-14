@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab Activity 12 by Sebastian Martinez</string>
+    <string name="sensors">Android Sensors</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor">Rotation Vector</string>
+    <string name="android_sensors">Available sensors</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="x">X:</string>
+</resources>
